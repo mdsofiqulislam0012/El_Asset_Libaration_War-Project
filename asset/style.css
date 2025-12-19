@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6,p,a,ul,li,ol,span{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+/* futured style */
+.card-img-top{
+    width: 339px;
+    height: 200px;
+}
+.title{
+    box-shadow: 0 10px 12px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+.first-sector-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.sector-image-controler{
+    display: flex;
+    justify-content: center;
+}
+.card-main{
+    box-shadow: 0 10px 12px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.sector-image{
+    display: flex;
+    align-items: center;
+}
+.sector-text h4{
+    font-weight: 700;
+}
+#documents{
+    margin-top: 50px;
+}
+/* futured style */
+
+
+
+/* interview section */
+#interviews{
+    margin-top: 70px;
+}
+.interview-heading{
+    box-shadow: 0 10px 12px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+.video-main{
+    border-radius: 20px;
+}
+/* interview section */
+
+
+/* glary section */
+#gallery{
+    margin-top: 50px;
+}
+.gallery-photo{
+    width: 250px;
+    height: 194px;
+}
+.section-title{
+     box-shadow: 0 10px 12px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+/* glary section */
